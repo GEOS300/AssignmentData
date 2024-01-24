@@ -1,6 +1,6 @@
 Variable Name|Metadata
-|TIMESTAMP|Date and Time (YYYY-mm-DD HHMM)|
 | ------------- | ------------- |
+|TIMESTAMP|Date and Time (YYYY-mm-DD HHMM), corresponding to the end of a half-hourly observation interval.  All data values are averaged over the interval, with the exception of precipitation, which is summed over the interval.|
 |SW_IN_1_1_1|Incoming Shortwave Radiation (W m-2)|
 |LW_IN_1_1_1|Incoming Longwave Radiation (W m-2)|
 |SW_OUT_1_1_1|Outgoing Shortwave Radiation (W m-2)|
