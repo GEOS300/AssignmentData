@@ -3,9 +3,10 @@
 # Start: 2000/08/13 16:00 PST
 # Average values over 30 min
 # Air temperature: 35.4 deg C
+# Air pressure: 101.094 kPa
 # Air pressure: 101.277 kPa
 
-"Height (m)","Horizontal wind velocity (m/s)"
+"Height (m)","Wind Speed (m/s)"
         0.95,         1.90
         1.55,         2.28
         2.35,         2.58
