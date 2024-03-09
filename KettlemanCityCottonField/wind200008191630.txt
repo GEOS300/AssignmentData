@@ -4,7 +4,6 @@
 # Average values over 30 min
 # Air temperature: 33.4 deg C
 # Air pressure: 101.444 kPa
-# Air pressure: 101.362 kPa
 
 "Height (m)","Wind Speed (m/s)"
         0.95,         1.77
